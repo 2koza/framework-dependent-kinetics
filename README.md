@@ -1,0 +1,1 @@
+Supplementary information for "xxx", Y. Sakanaka, S. Hiraide, I. Sugawara, H. Uematsu, S. Kawaguchi, M. T. Miyahara, and S. Watanabe, Nat. Chem. xx, xxxx (xxxx). DOI: xxxx
