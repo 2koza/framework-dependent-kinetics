@@ -1,52 +1,56 @@
-# generated using pymatgen
-data_CuH7C10NO4
-_symmetry_space_group_name_H-M   C2
-_cell_length_a   13.42200000
-_cell_length_b   11.24100000
-_cell_length_c   9.27900000
-_cell_angle_alpha   90.00000000
-_cell_angle_beta   121.21300000
-_cell_angle_gamma   90.00000000
-_symmetry_Int_Tables_number   5
-_chemical_formula_structural   CuH7C10NO4
-_chemical_formula_sum   'Cu4 H28 C40 N4 O16'
-_cell_volume   1197.33248321
-_cell_formula_units_Z   4
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'Cu4 H28 C40 N4 O16'
+_cell_length_a                         13.440000
+_cell_length_b                         11.219000
+_cell_length_c                         9.253000
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       121.095001
+_cell_angle_gamma                      90.000000
+_cell_volume                           1194.725344
+_space_group_name_H-M_alt              'C 2'
+_space_group_IT_number                 5
+
 loop_
- _symmetry_equiv_pos_site_id
- _symmetry_equiv_pos_as_xyz
-  1  'x, y, z'
-  2  '-x, y, -z'
-  3  'x+1/2, y+1/2, z'
-  4  '-x+1/2, y+1/2, -z'
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-x, y, -z'
+   'x+1/2, y+1/2, z'
+   '-x+1/2, y+1/2, -z'
+
 loop_
- _atom_site_type_symbol
- _atom_site_label
- _atom_site_symmetry_multiplicity
- _atom_site_fract_x
- _atom_site_fract_y
- _atom_site_fract_z
- _atom_site_occupancy
-  Cu  Cu0  4  0.07130538  0.08746523  0.15688462  1
-  H  H1  4  0.01091073  0.54368809  0.29761067  1
-  H  H2  4  0.07356520  0.11377665  0.48593298  1
-  H  H3  4  0.10040175  0.57571926  0.96521223  1
-  H  H4  4  0.15996194  0.55088938  0.60361697  1
-  H  H5  4  0.16347382  0.35693702  0.80815856  1
-  H  H6  4  0.16791762  0.82365540  0.80871807  1
-  H  H7  4  0.20841184  0.10508249  0.79657156  1
-  C  C8  4  0.05868259  0.57341949  0.03977012  1
-  C  C9  4  0.10187000  0.55972039  0.33834061  1
-  C  C10  4  0.11780792  0.24327514  0.95848330  1
-  C  C11  4  0.12303453  0.93575029  0.96177485  1
-  C  C12  4  0.13799578  0.57477269  0.22135816  1
-  C  C13  4  0.16642258  0.09759004  0.54008026  1
-  C  C14  4  0.18464347  0.56391841  0.50954739  1
-  C  C15  4  0.19413045  0.32559401  0.93558383  1
-  C  C16  4  0.20014375  0.85630227  0.93597485  1
-  C  C17  4  0.24237068  0.09321109  0.71345869  1
-  N  N18  4  0.20135167  0.08309619  0.42932504  1
-  O  O19  4  0.01797002  0.94539713  0.83985759  1
-  O  O20  4  0.04069650  0.18929694  0.82472794  1
-  O  O21  4  0.13551810  0.23099386  0.10632181  1
-  O  O22  4  0.16891788  0.98984873  0.10359573  1
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Cu0        1.0     0.070890     0.087448     0.157031    Uiso  ? Cu
+   H1         1.0     0.011788     0.543783     0.299157    Uiso  ? H
+   H2         1.0     0.074000     0.113486     0.487628    Uiso  ? H
+   H3         1.0     0.099813     0.575872     0.964081    Uiso  ? H
+   H4         1.0     0.161228     0.550933     0.605310    Uiso  ? H
+   H5         1.0     0.163998     0.357264     0.808095    Uiso  ? H
+   H6         1.0     0.168318     0.823357     0.808259    Uiso  ? H
+   H7         1.0     0.209266     0.104895     0.798518    Uiso  ? H
+   C8         1.0     0.058514     0.573574     0.039412    Uiso  ? C
+   C9         1.0     0.102427     0.559788     0.339126    Uiso  ? C
+   C10        1.0     0.117772     0.243540     0.958373    Uiso  ? C
+   C11        1.0     0.122924     0.935531     0.961355    Uiso  ? C
+   C12        1.0     0.137985     0.574853     0.221140    Uiso  ? C
+   C13        1.0     0.166584     0.097431     0.541094    Uiso  ? C
+   C14        1.0     0.185380     0.563940     0.510375    Uiso  ? C
+   C15        1.0     0.194303     0.325765     0.935647    Uiso  ? C
+   C16        1.0     0.200208     0.856171     0.935653    Uiso  ? C
+   C17        1.0     0.242761     0.093143     0.714586    Uiso  ? C
+   N18        1.0     0.200979     0.082997     0.429402    Uiso  ? N
+   O19        1.0     0.018240     0.945160     0.839139    Uiso  ? O
+   O20        1.0     0.040917     0.189550     0.824365    Uiso  ? O
+   O21        1.0     0.135102     0.231309     0.106386    Uiso  ? O
+   O22        1.0     0.168316     0.989611     0.103467    Uiso  ? O
