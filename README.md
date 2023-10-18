@@ -1,1 +1,1 @@
-Supplementary information for "xxx", Y. Sakanaka, S. Hiraide, I. Sugawara, H. Uematsu, S. Kawaguchi, M. T. Miyahara, and S. Watanabe, Nat. Chem. xx, xxxx (xxxx). DOI: xxxx
+Supplementary information for "Generalised analytical method unravels framework-dependent kinetics of adsorption-induced structural transition in flexible metal–organic frameworks," Y. Sakanaka, S. Hiraide, I. Sugawara, H. Uematsu, S. Kawaguchi, M. T. Miyahara, and S. Watanabe, Nat. Commun. xx, xxxx (xxxx). DOI: 10.1038/s41467-023-42448-3
